@@ -1,4 +1,4 @@
-<img align="center" width="80%" height="200" src="images/holberton-logo-horizontal.jpg">
+<img align="center" width="80%" height="200" src="/holberton-logo-horizontal.jpg">
 
 In this repository you will find zero day projects at Holberon School.
 
