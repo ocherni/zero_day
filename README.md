@@ -1,6 +1,16 @@
-<img align="center" width="80%" height="200" src="/holberton-logo-horizontal.jpg">
+<h1 align="center">Holberton School Zero-Day</h1>
+  
+<p align="center"><b>This repository stores my first projects I did at the Holberton Campus.</b></p>
 
-In this repository you will find zero day projects at Holberon School.
+---
+
+<p align="center">
+  <a target="_blank" href="https://www.holbertonschool.com/"><img src="https://github.com/dreamdaddybanks/holbertonschool-low_level_programming/blob/master/holby.jpg?raw=true"></a>
+</p>
+
+---
+
+<b>In this repository you will find zero day projects at Holberon School.</b>
 
 The projects are:
 - 0x00-Vagrant
